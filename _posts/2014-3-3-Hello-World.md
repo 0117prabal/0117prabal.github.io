@@ -1,2 +1,2 @@
 
-![_config.yml]({{ site.baseurl }}/images/under_construction.png)
+({{ site.baseurl }}/images/under_construction.png)
