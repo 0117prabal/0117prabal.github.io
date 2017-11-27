@@ -3,4 +3,4 @@ layout: post
 title: Resume Test
 ---
 
-Resume Test
+({{ site.baseurl }}/images/pp.png)
