@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Projects
 ---
 <ul style="list-style-type:disc">
   <li><a href="https://doi.org/10.1515/cdbme-2016-0103">Automatic Segmentation and Tissue Characterization of Thyroid Ultrasound Images for Volumetric Analysis, January 2017 - Present</a></li>
