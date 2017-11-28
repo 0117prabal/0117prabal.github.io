@@ -11,5 +11,5 @@ I am Prabal Poudel, a Ph.D student at INKA, chair of Catheter Technologies and I
 
 [prabal.poudel@ovgu.de](mailto:prabal.poudel@ovgu.de)
 
-![_config.yml]({{ site.baseurl }}/images/pp_image.png)
-#https://raw.githubusercontent.com/0117prabal/0117prabal.github.io/master/images/pp_image.jpg
+<img src="/images/pp_image.jpg" >
+
